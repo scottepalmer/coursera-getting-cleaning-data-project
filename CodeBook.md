@@ -1,7 +1,9 @@
 Description
+
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
 
 My Script
+
 The file "run_analysis.R" performs the 5 following steps:
 
 1. Merging the training and the test sets to create one data set
