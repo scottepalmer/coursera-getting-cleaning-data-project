@@ -22,3 +22,8 @@ The file "run_analysis.R" performs the 5 following steps:
 5. Creating a second, independent tidy data set with the average of each variable for each activity and each subject    
   a) Making second tidy data set    
   b) Writing second tidy data set in txt file   
+
+## Variables
+* activityLabels, features pull the activity labels and features from the downloaded files
+* train, trainActivities, trainSubjects, test, testActivities, and testSubjects contain the datasets from the downloaded files
+* allData merges the previous datasets for further analysis
