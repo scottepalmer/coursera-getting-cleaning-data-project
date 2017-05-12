@@ -24,6 +24,6 @@ The file "run_analysis.R" performs the 5 following steps:
   b) Writing second tidy data set in txt file   
 
 ## Variables
-* activityLabels, features pull the activity labels and features from the downloaded files
-* train, trainActivities, trainSubjects, test, testActivities, and testSubjects contain the datasets from the downloaded files
-* allData merges the previous datasets for further analysis
+* `activityLabels`, `features` pull the activity labels and features from the downloaded files
+* `train`, `trainActivities`, `trainSubjects`, `test`, `testActivities`, and `testSubjects` contain the datasets from the downloaded files
+* `allData` merges the previous datasets for further analysis
